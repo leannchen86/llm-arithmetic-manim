@@ -1,4 +1,4 @@
-# How Do LLMs Add Numbers? - Manim Explainer
+# LLM Arithmetic - Manim Explainer
 
 Manim animation source code for the video [How do LLMs add numbers?](https://www.youtube.com/watch?v=8VTzn8i34qo).
 
@@ -47,3 +47,9 @@ Use `-pqh` instead of `-pql` for a higher-quality render.
 ## Why This Exists
 
 The video and code are meant to make model internals easier to reason about visually. The repo keeps the animation source public so the explanation is reproducible, inspectable, and reusable for future AI education work.
+
+## Related Explainers
+
+- [Hybrid Search + BM25](https://github.com/leannchen86/hybrid-search-bm25-manim)
+- [CLIP Encoding](https://github.com/leannchen86/clip-encoding-manim)
+- [Neural Superposition](https://github.com/leannchen86/neural-superposition-manim)
